@@ -1,5 +1,6 @@
 # NVIM Configuration
 - https://github.com/LunarVim/Neovim-from-scratch
+- https://vim.fandom.com/wiki/Sort_lines
 
 
 
